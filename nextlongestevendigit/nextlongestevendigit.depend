@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1533128857 source:c:\users\ba\codeblocks\nextlongestevendigit\main.c
+	<stdio.h>
+	<stdlib.h>
+

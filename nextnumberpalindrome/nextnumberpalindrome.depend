@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534427240 source:c:\users\ba\codeblocks\nextnumberpalindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+

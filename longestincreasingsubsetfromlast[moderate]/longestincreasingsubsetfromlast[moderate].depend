@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536473688 source:c:\users\ba\codeblocks\longestincreasingsubsetfromlast[moderate]\main.c
+	<stdio.h>
+	<stdlib.h>
+
