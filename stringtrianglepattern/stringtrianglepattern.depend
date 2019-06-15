@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532345372 source:c:\users\ba\codeblocks\stringtrianglepattern\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

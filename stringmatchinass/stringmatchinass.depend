@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529929824 source:c:\users\ba\codeblocks\stringmatchinass\main.c
+	<stdio.h>
+	<stdlib.h>
+

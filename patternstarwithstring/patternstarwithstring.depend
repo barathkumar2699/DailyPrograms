@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1537707138 source:c:\users\barath\documents\patternstarwithstring\main.c
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+
+1537707138 source:c:\users\barath\documents\codeblocks\patternstarwithstring\main.c
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+

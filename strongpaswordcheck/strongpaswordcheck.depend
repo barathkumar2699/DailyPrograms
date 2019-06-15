@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534166813 source:c:\users\ba\codeblocks\strongpaswordcheck\main.c
+	<stdio.h>
+	<stdlib.h>
+
