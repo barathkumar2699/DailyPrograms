@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559133441 source:c:\users\barath\documents\codeblocks\graphrep\main.c
+	<stdio.h>
+	<stdlib.h>
+
