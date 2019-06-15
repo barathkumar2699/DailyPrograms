@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553560136 source:c:\users\barath\documents\codeblocks\lex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

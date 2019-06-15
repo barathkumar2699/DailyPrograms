@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553343775 source:c:\users\barath\documents\codeblocks\intermediatecodegeneration\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
