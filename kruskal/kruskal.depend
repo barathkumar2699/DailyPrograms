@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559218502 source:c:\users\barath\documents\codeblocks\kruskal\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
