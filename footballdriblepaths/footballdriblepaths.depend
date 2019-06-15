@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537079341 source:c:\users\ba\codeblocks\footballdriblepaths\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

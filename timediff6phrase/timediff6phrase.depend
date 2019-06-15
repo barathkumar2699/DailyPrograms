@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547573132 source:c:\users\barath\documents\codeblocks\timediff6phrase\main.c
+	<stdio.h>
+	<stdlib.h>
+

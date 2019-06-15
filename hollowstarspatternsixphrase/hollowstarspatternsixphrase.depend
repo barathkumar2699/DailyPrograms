@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547469082 source:c:\users\barath\documents\codeblocks\hollowstarspatternsixphrase\main.c
+	<stdio.h>
+	<stdlib.h>
+

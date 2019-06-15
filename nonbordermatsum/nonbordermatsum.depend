@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540645801 source:c:\users\barath\documents\codeblocks\nonbordermatsum\main.c
+	<stdio.h>
+	<stdlib.h>
+

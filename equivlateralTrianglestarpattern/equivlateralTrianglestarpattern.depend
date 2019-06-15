@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547477793 source:c:\users\barath\documents\codeblocks\equivlateraltrianglestarpattern\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

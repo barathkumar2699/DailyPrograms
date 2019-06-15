@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540656819 source:c:\users\barath\documents\codeblocks\balajifootalldriblepath\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

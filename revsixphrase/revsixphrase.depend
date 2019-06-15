@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547456297 source:c:\users\barath\documents\codeblocks\revsixphrase\main.c
+	<stdio.h>
+	<stdlib.h>
+
