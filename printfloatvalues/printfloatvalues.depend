@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1533555116 source:c:\users\ba\codeblocks\printfloatvalues\main.c
+	<stdio.h>
+	<stdlib.h>
+

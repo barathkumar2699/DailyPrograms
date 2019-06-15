@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532790448 source:c:\users\ba\codeblocks\shiftencription\main.c
+	<stdio.h>
+	<stdlib.h>
+

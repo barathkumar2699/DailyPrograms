@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535195080 source:c:\users\ba\codeblocks\oversizedpancakedflipper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
