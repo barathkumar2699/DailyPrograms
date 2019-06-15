@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534850549 source:c:\users\ba\codeblocks\charactersatnmutiply\main.c
+	<stdio.h>
+	<stdlib.h>
+

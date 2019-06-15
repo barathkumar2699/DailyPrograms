@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535629117 source:c:\users\ba\codeblocks\consecutive 1'scount\main.c
+	<stdio.h>
+	<stdlib.h>
+

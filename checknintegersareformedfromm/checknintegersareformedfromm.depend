@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534574105 source:c:\users\ba\codeblocks\checknintegersareformedfromm\main.c
+	<stdio.h>
+	<stdlib.h>
+
