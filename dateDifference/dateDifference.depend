@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548773259 source:c:\users\barath\documents\codeblocks\datedifference\main.c
+	<stdio.h>
+	<stdlib.h>
+

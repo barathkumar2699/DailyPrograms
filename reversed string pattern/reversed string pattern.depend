@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548245140 source:c:\users\barath\documents\codeblocks\reversed string pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+
