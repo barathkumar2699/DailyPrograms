@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1533726449 source:c:\users\ba\codeblocks\nintegerssumallcombinations\main.c
+	<stdio.h>
+	<string.h>
+

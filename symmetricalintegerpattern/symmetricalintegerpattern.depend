@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1537876546 source:c:\users\barath\documents\symmetricalintegerpattern\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1537876789 source:c:\users\barath\documents\codeblocks\symmetricalintegerpattern\main.c
+	<stdio.h>
+	<stdlib.h>
+

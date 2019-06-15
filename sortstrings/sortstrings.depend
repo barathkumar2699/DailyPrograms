@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539766519 source:c:\users\barath\documents\codeblocks\sortstrings\main.c
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539502412 source:c:\users\barath\documents\codeblocks\chefprime\main.c
+	<stdio.h>
+	<stdlib.h>
+

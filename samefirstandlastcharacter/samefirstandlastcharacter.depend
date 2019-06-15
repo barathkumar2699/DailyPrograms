@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538392491 source:c:\users\barath\documents\samefirstandlastcharacter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
