@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553760739 source:c:\users\barath\documents\codeblocks\ratandmiceprob\main.c
+	<stdio.h>
+	<stdlib.h>
+
